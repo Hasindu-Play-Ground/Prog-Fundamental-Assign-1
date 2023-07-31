@@ -13,7 +13,7 @@ public class Demotask_b {
 
         final String colorBlue = "\033[34m";
         final String colorBrown = "\033[38;5;214m";
-        final String colorLightCyan = "\033[1;36m";
+        //final String colorLightCyan = "\033[1;36m";
         final String colorReset = "\033[0m";
 
         String line = "+--------------------+------+";
